@@ -276,9 +276,8 @@ nav ul li a {
   margin-right: 5px;
 }
 
-
 .why-attend {
-  padding: 100px 8%;
+  padding: 70px 8% 40px 8%;
 
   background: #0b1120;
 
@@ -375,4 +374,18 @@ nav ul li a {
   margin: 0;
 
   color: #cbd5e1;
+}
+
+.footer {
+  display: flex;
+  justify-content: space-between;
+  font-size: 13px;
+  font-weight: regular;
+  color: #888888;
+  background-color: #0d1b2a;
+  padding: 32px 60px 32px 60px;
+}
+.privacy {
+  display: flex;
+  gap: 18px;
 }
